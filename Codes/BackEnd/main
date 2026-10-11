@@ -1,3 +1,5 @@
+# NOTE THIS IS ONLY FOR RUNNING THE REGISTRATION.PY
+
 import sys
 import ctypes
 from PyQt6.QtWidgets import QApplication

@@ -342,6 +342,9 @@ class RegistrationWindow(QWidget):
                         "First Name", "Last Name", "Username",
                         "Password", "Email", "Contact"
                     ])
+
+                role = "Manager" if "mgr" in data ['txt_username'].lower() or "admin" in data['txt_username'].lower() else "Cashier"
+                
                 writer.writerow([
                     data['txt_first_name'],
                     data['txt_last_name'],

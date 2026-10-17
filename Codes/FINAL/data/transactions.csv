@@ -1,0 +1,2 @@
+transaction_id,datetime,cashier,customer_type,discount_name,subtotal,discount,vat,total,payment,change
+

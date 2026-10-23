@@ -149,14 +149,14 @@ END
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" alt="GitHub"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" alt="Visual Studio Code"/>
 
-</div>
-
 | Technology | Purpose |
 |---|---|
 | 🐍 Python | Primary programming language |
 | 📝 Visual Studio Code | Code editor |
 | 🌿 Git | Version control |
 | 📂 GitHub | Repository hosting and collaboration |
+
+</div>
 
 ---
 

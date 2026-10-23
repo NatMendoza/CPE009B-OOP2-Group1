@@ -1,20 +1,18 @@
-<div align="center">
+ <div align="center">
 
-# 📊 CPE 009B - Object Oriented Programming 2
+# 📊 CPE 009B – Object-Oriented Programming 2
 
 ### *Course Projects*
 
-<img src="https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%009B-blue?style=for-the-badge"/>
+![TIP](https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20009B-blue?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white"/>
+![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/Status-%20Finished-success?style=for-the-badge"/>
-
-<br><br>
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---
 
-# 👋 Hello! We're **Group 1!**
+# 👋 Hello! We're Group 1!
 
 ### 🎓 Computer Engineering Students
 
@@ -24,86 +22,119 @@
 
 ---
 
-# Project Algorithm
+# 🧾 Project Algorithm
 
-Start System
-Cashier log-in
-Start Transaction
-Generate Transaction Number
-Cashier enters item id / click item (Both applicable)
-System search
-If found, show the item name, image, and price in pesos, then ask for the quantity. If not found, show "Item not found" and go back to step 3.
-Add the item to the cart and update the running subtotal.
-Repeat steps 3 to 6 until all items are entered.
-Ask for the customer type (Regular, Senior, PWD, or other promo).
-Apply the discount: Senior/PWD get a fixed 20% off, and other promos get their own % off.
-Compute the 12% VAT on the discounted total.
-Compute the final total and accept payment and change.
-Generate and print the receipt, then end the transaction
+1. Start the system.
+2. Display the system logo and cashier login screen.
+3. Authenticate the cashier.
+4. Start a new transaction and generate a transaction number.
+5. Allow the cashier to enter an item ID or select an item from the product list.
+6. Search for the selected item in the database.
+7. If the item exists, display its name, image, and price in Philippine pesos (PHP), then ask for the quantity.
+8. If the item does not exist, display **"Item not found"** and return to item selection.
+9. Add the item to the cart and update the running subtotal.
+10. Repeat the item selection process until the cashier chooses Checkout.
+11. Ask for the customer's type: Regular, Senior Citizen, PWD, or applicable promotional category.
+12. Apply the appropriate discount: 20% for eligible Senior Citizens and PWD customers, or the applicable promotional discount.
+13. Calculate the VAT and final amount according to the applicable tax rules.
+14. Accept the customer's payment and calculate the change.
+15. Generate and print the receipt containing the transaction details.
+16. End the transaction and return to the cashier interface.
 
 ---
 
-# Project Pseudocode
+# 📝 Project Pseudocode
 
+```text
 START
-  DISPLAY logo
-  CREATE new transaction, assign transaction number
-  SET cart to empty
 
-  REPEAT
-    INPUT serial number
-    SEARCH item list using serial number
-    IF item exists THEN
-      DISPLAY name, image, price (PHP)
-      INPUT quantity
-      ADD item to cart
-      COMPUTE subtotal
+    DISPLAY system logo
+    AUTHENTICATE cashier
+
+    IF login is successful THEN
+
+        CREATE new transaction
+        GENERATE transaction number
+        SET cart = empty
+        SET subtotal = 0
+
+        REPEAT
+            INPUT item ID or select item
+            SEARCH item database
+
+            IF item exists THEN
+                DISPLAY item name, image, and price
+                INPUT quantity
+
+                IF quantity > 0 THEN
+                    ADD item and quantity to cart
+                    UPDATE subtotal
+                ELSE
+                    DISPLAY "Invalid quantity"
+                ENDIF
+
+            ELSE
+                DISPLAY "Item not found"
+            ENDIF
+
+        UNTIL cashier selects Checkout
+
+        INPUT customer type
+
+        IF customer is eligible for Senior/PWD discount THEN
+            discount = eligible amount x 20%
+        ELSE IF promotional discount applies THEN
+            discount = eligible amount x promo rate
+        ELSE
+            discount = 0
+        ENDIF
+
+        CALCULATE applicable VAT
+        CALCULATE final total
+
+        INPUT payment
+
+        WHILE payment < final total
+            DISPLAY "Insufficient payment"
+            INPUT payment
+        ENDWHILE
+
+        change = payment - final total
+
+        GENERATE receipt containing:
+            Transaction number
+            Date and time
+            Store name and address
+            Purchased items and quantities
+            Subtotal and discount
+            VAT
+            Final total
+            Payment and change
+
+        PRINT receipt
+
     ELSE
-      DISPLAY "Item not found"
+        DISPLAY "Invalid login"
     ENDIF
-  UNTIL cashier selects "Checkout"
 
-  INPUT customer type
-  IF customer is Senior or PWD THEN
-    discount = subtotal x 20%
-  ELSE IF promo applies THEN
-    discount = subtotal x promo %
-  ELSE
-    discount = 0
-  ENDIF
-
-  net amount = subtotal - discount
-  VAT (12%) = net amount / 1.12 x 0.12
-  total = net amount
-
-  INPUT payment
-  change = payment - total
-
-  PRINT receipt (transaction no., date/time, store name/address,
-                 items, discount, VAT, total, payment, change)
 END
-
+```
 
 ---
 
 # 🗂️ Course Topics
 
 ## 📘 Prelim
-
--
--
+- [Add topics covered during the prelim period]
+- [Add relevant programming concepts]
 
 ## 📙 Midterm
-
--
--
-
+- [Add topics covered during the midterm period]
+- [Add relevant object-oriented programming concepts]
 
 ## 📗 Final
-
--
--
-
+- [Add topics covered during the final period]
+- [Add project implementation and integration topics]
 
 ---
 
@@ -111,7 +142,7 @@ END
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="90" alt="Python Logo"/>
 
 ### Python
 
@@ -123,35 +154,30 @@ END
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" alt="Python"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70" alt="Git"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70" alt="GitHub"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="70" alt="VS Code"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" alt="Python"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="65" alt="Git"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="65" alt="GitHub"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="65" alt="Visual Studio Code"/>
 
 </div>
-
-<div align="center">
 
 | Technology | Purpose |
-|------------|---------|
-| 🐍 C++ | DSA |
-| 📝 VS Code | Code Editor |
-| 🌿 Git | Version Control |
-| 📂 GitHub | Repository Hosting |
-
-</div>
+|---|---|
+| 🐍 Python | Primary programming language |
+| 📝 Visual Studio Code | Code editor |
+| 🌿 Git | Version control |
+| 📂 GitHub | Repository hosting and collaboration |
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-CPE 009B – Object Oriented Programming 2
+CPE 009B – Object-Oriented Programming 2
 │
-├── 📁 Project FIles
+├── 📁 Project Files/
+│   └── Source code and project resources
+│
 └── 📄 README.md
 ```
 
@@ -159,14 +185,14 @@ CPE 009B – Object Oriented Programming 2
 
 # 📧 Contact Us
 
-**TIP Emails**
+**TIP Student Emails**
 
-📩 qpbvillaruel25@tip.edu.ph
-📩 qmjbautista25@tip.edu.ph
-📩 qecruz@tip.edu.ph
-📩 qjbbarizo@tip.edu.ph
-📩 qcfernadez@tip.edu.ph
-📩 qnmendoza@tip.edu.ph
+- 📩 qpbvillaruel25@tip.edu.ph
+- 📩 qmjbautista25@tip.edu.ph
+- 📩 qecruz@tip.edu.ph
+- 📩 qjbbarizo@tip.edu.ph
+- 📩 qcfernadez@tip.edu.ph
+- 📩 qnmendoza@tip.edu.ph
 
 ---
 
@@ -174,5 +200,8 @@ CPE 009B – Object Oriented Programming 2
 
 ## ⭐ Thank You for Visiting!
 
+*Developed by Group 1 – Computer Engineering Students*
+
+**Technological Institute of the Philippines – Quezon City**
 
 </div>

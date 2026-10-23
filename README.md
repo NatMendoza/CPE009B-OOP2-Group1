@@ -4,7 +4,6 @@
 
 
 ![TIP](https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20009B-blue?style=for-the-badge)
-
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ---

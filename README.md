@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📊 CPE 010 – Data Structures and Algorithms
+# 📊 CPE 009B - Object Oriented Programming 2
 
-### *Course Portfolio • Laboratory Activities • Projects*
+### *Course Projects*
 
 <img src="https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%009B-blue?style=for-the-badge"/>
 

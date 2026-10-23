@@ -1,12 +1,10 @@
  <div align="center">
 
-# 📊 CPE 009B – Object-Oriented Programming 2
+#  CPE 009B – Object-Oriented Programming 2
 
 ### *Course Projects*
 
 ![TIP](https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20009B-blue?style=for-the-badge)
-
-![Python](https://img.shields.io/badge/Language-Python-yellow?style=for-the-badge&logo=python&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
@@ -119,22 +117,6 @@ START
 
 END
 ```
-
----
-
-# 🗂️ Course Topics
-
-## 📘 Prelim
-- [Add topics covered during the prelim period]
-- [Add relevant programming concepts]
-
-## 📙 Midterm
-- [Add topics covered during the midterm period]
-- [Add relevant object-oriented programming concepts]
-
-## 📗 Final
-- [Add topics covered during the final period]
-- [Add project implementation and integration topics]
 
 ---
 

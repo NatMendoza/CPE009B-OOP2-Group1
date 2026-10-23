@@ -11,7 +11,7 @@
 
 # 👋 Hello! Welcome to EcoBasket Supermarket!
 
-<img width="673" height="643" alt="LOGO" src="https://github.com/user-attachments/assets/5e8e43c1-f3a2-4d64-a7dc-2bb4788372a4" />
+<img width="333" height="320" alt="image" src="https://github.com/user-attachments/assets/2f44259e-4f8c-4392-aa37-59abf0e553df" />
 
 ### Presented by Computer Engineering Students
 

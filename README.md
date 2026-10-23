@@ -120,7 +120,11 @@ END
 
 # Implementation of OOP
 
+<div align="center">
+
 <img width="617" height="284" alt="ImplementOOP" src="https://github.com/user-attachments/assets/5f8c217c-ff43-4301-8dbf-b81a4a470c3c" />
+
+</div>
 
 ---
 

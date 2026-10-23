@@ -2,7 +2,6 @@
 
 #  CPE 009B – Object-Oriented Programming 2
 
-### *Course Projects*
 
 ![TIP](https://img.shields.io/badge/Technological%20Institute%20of%20the%20Philippines-CPE%20009B-blue?style=for-the-badge)
 
@@ -10,11 +9,13 @@
 
 ---
 
-# 👋 Hello! We're Group 1!
+# 👋 Hello! Welcome to EcoBasket Supermarket!
 
-### 🎓 Computer Engineering Students
+<img width="673" height="643" alt="LOGO" src="https://github.com/user-attachments/assets/5e8e43c1-f3a2-4d64-a7dc-2bb4788372a4" />
 
-**Technological Institute of the Philippines – Quezon City**
+### Presented by Computer Engineering Students
+
+**At the Technological Institute of the Philippines – Quezon City**
 
 </div>
 

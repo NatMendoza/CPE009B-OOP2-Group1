@@ -24,7 +24,6 @@ from services import POSBackend
 from validators import money
 
 
-# Updated App Style: Matching Logo Lime Green Accent (#82B536 / #71A02B) with Clean Black/White & Maximized Space
 APP_STYLE = """
 QMainWindow, QDialog { background-color: #F8F9FA; }
 QLabel { color: #111111; }

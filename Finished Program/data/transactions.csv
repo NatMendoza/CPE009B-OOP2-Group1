@@ -1,0 +1,2 @@
+transaction_id,datetime,cashier,customer_type,discount_name,subtotal,discount,vat,total,payment,change,status,voided_by,voided_at,void_reason
+TXN-20261024-0001,2026-10-24T09:02:52,admin,regular,None,546.00,0.00,58.50,546.00,600.00,54.00,paid,,,

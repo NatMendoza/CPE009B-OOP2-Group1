@@ -1,0 +1,5 @@
+transaction_id,serial,name,unit_price,quantity,line_total
+TXN-20261024-0001,SN-1096,Palmolive Shampoo – 180 ml,85.00,3,255.00
+TXN-20261024-0001,SN-1095,Safeguard Soap – 90 g,48.00,2,96.00
+TXN-20261024-0001,SN-1091,Kopiko Brown Coffee – 10-sachet pack,55.00,2,110.00
+TXN-20261024-0001,SN-1100,Joy Dishwashing Liquid – 400 ml,85.00,1,85.00

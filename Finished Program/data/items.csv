@@ -1,0 +1,101 @@
+serial,name,price,stock,category,image
+SN-1001,Sinandomeng Rice – 1 kg,58.00,50,Rice & Grains,images/SN-1001.png
+SN-1002,Sinandomeng Rice – 5 kg,285.00,50,Rice & Grains,images/SN-1002.png
+SN-1003,Jasmine Rice – 1 kg,65.00,50,Rice & Grains,images/SN-1003.png
+SN-1004,Jasmine Rice – 5 kg,320.00,50,Rice & Grains,images/SN-1004.png
+SN-1005,White Sugar – 500 g,45.00,50,Baking & Sugar,images/SN-1005.png
+SN-1006,White Sugar – 1 kg,88.00,50,Baking & Sugar,images/SN-1006.png
+SN-1007,Brown Sugar – 500 g,38.00,50,Baking & Sugar,images/SN-1007.png
+SN-1008,Brown Sugar – 1 kg,72.00,50,Baking & Sugar,images/SN-1008.png
+SN-1009,All-Purpose Flour – 500 g,35.00,50,Baking & Sugar,images/SN-1009.png
+SN-1010,All-Purpose Flour – 1 kg,62.00,50,Baking & Sugar,images/SN-1010.png
+SN-1011,Cooking Oil – 250 ml,38.00,50,Cooking Essentials,images/SN-1011.png
+SN-1012,Cooking Oil – 1 L,120.00,50,Cooking Essentials,images/SN-1012.png
+SN-1013,Iodized Salt – 250 g,15.00,50,Cooking Essentials,images/SN-1013.png
+SN-1014,Iodized Salt – 500 g,25.00,50,Cooking Essentials,images/SN-1014.png
+SN-1015,Cornstarch – 250 g,32.00,50,Baking & Sugar,images/SN-1015.png
+SN-1016,Argentina Corned Beef – 100 g,28.00,50,Canned Goods,images/SN-1016.png
+SN-1017,Argentina Corned Beef – 175 g,45.00,50,Canned Goods,images/SN-1017.png
+SN-1018,Purefoods Corned Beef – 150 g,48.00,50,Canned Goods,images/SN-1018.png
+SN-1019,555 Sardines – 155 g,25.00,50,Canned Goods,images/SN-1019.png
+SN-1020,Ligo Sardines – 155 g,27.00,50,Canned Goods,images/SN-1020.png
+SN-1021,Century Tuna – 155 g,38.00,50,Canned Goods,images/SN-1021.png
+SN-1022,Century Tuna – 180 g,45.00,50,Canned Goods,images/SN-1022.png
+SN-1023,Mega Sardines – 155 g,24.00,50,Canned Goods,images/SN-1023.png
+SN-1024,Spam Luncheon Meat – 200 g,115.00,50,Canned Goods,images/SN-1024.png
+SN-1025,Spam Luncheon Meat – 340 g,175.00,50,Canned Goods,images/SN-1025.png
+SN-1026,Reno Liver Spread – 85 g,24.00,50,Canned Goods,images/SN-1026.png
+SN-1027,Hunt's Pork and Beans – 175 g,32.00,50,Canned Goods,images/SN-1027.png
+SN-1028,Hunt's Pork and Beans – 230 g,40.00,50,Canned Goods,images/SN-1028.png
+SN-1029,Del Monte Tomato Sauce – 250 g,30.00,50,Canned Goods,images/SN-1029.png
+SN-1030,Del Monte Tomato Sauce – 500 g,52.00,50,Canned Goods,images/SN-1030.png
+SN-1031,Alaska Evaporated Milk – 154 ml,30.00,50,Canned Goods,images/SN-1031.png
+SN-1032,Alaska Evaporated Milk – 370 ml,52.00,50,Canned Goods,images/SN-1032.png
+SN-1033,Angel Condensada – 168 ml,38.00,50,Canned Goods,images/SN-1033.png
+SN-1034,Angel Condensada – 300 ml,60.00,50,Canned Goods,images/SN-1034.png
+SN-1035,San Marino Corned Tuna – 150 g,40.00,50,Canned Goods,images/SN-1035.png
+SN-1036,Lucky Me! Pancit Canton – Original,18.00,50,Noodles & Pasta,images/SN-1036.png
+SN-1037,Lucky Me! Pancit Canton – Kalamansi,18.00,50,Noodles & Pasta,images/SN-1037.png
+SN-1038,Lucky Me! Pancit Canton – Chilimansi,18.00,50,Noodles & Pasta,images/SN-1038.png
+SN-1039,Lucky Me! Instant Mami – Beef,14.00,50,Noodles & Pasta,images/SN-1039.png
+SN-1040,Lucky Me! Instant Mami – Chicken,14.00,50,Noodles & Pasta,images/SN-1040.png
+SN-1041,Payless Pancit Canton – Original,14.00,50,Noodles & Pasta,images/SN-1041.png
+SN-1042,Payless Pancit Canton – Sweet and Spicy,14.00,50,Noodles & Pasta,images/SN-1042.png
+SN-1043,Nissin Yakisoba – Original,25.00,50,Noodles & Pasta,images/SN-1043.png
+SN-1044,Royal Spaghetti Pasta – 400 g,50.00,50,Noodles & Pasta,images/SN-1044.png
+SN-1045,Royal Spaghetti Pasta – 900 g,105.00,50,Noodles & Pasta,images/SN-1045.png
+SN-1046,Ideal Macaroni – 400 g,42.00,50,Noodles & Pasta,images/SN-1046.png
+SN-1047,UFC Spaghetti Sauce – 250 g,35.00,50,Noodles & Pasta,images/SN-1047.png
+SN-1048,UFC Spaghetti Sauce – 500 g,62.00,50,Noodles & Pasta,images/SN-1048.png
+SN-1049,Datu Puti Soy Sauce – 385 ml,22.00,50,Condiments & Seasonings,images/SN-1049.png
+SN-1050,Datu Puti Soy Sauce – 750 ml,38.00,50,Condiments & Seasonings,images/SN-1050.png
+SN-1051,Silver Swan Soy Sauce – 385 ml,20.00,50,Condiments & Seasonings,images/SN-1051.png
+SN-1052,Datu Puti Vinegar – 385 ml,20.00,50,Condiments & Seasonings,images/SN-1052.png
+SN-1053,Datu Puti Vinegar – 750 ml,35.00,50,Condiments & Seasonings,images/SN-1053.png
+SN-1054,UFC Banana Ketchup – 320 g,28.00,50,Condiments & Seasonings,images/SN-1054.png
+SN-1055,UFC Banana Ketchup – 550 g,45.00,50,Condiments & Seasonings,images/SN-1055.png
+SN-1056,Del Monte Tomato Ketchup – 320 g,30.00,50,Condiments & Seasonings,images/SN-1056.png
+SN-1057,Lady's Choice Mayonnaise – 220 ml,65.00,50,Condiments & Seasonings,images/SN-1057.png
+SN-1058,Lady's Choice Mayonnaise – 470 ml,120.00,50,Condiments & Seasonings,images/SN-1058.png
+SN-1059,Mang Tomas All-Around Sarsa – 330 g,45.00,50,Condiments & Seasonings,images/SN-1059.png
+SN-1060,Knorr Sinigang Mix – 22 g,14.00,50,Condiments & Seasonings,images/SN-1060.png
+SN-1061,Knorr Chicken Cubes – 1 cube,8.00,50,Condiments & Seasonings,images/SN-1061.png
+SN-1062,Magic Sarap – 8 g,6.00,50,Condiments & Seasonings,images/SN-1062.png
+SN-1063,Ajinomoto Umami Seasoning – 50 g,22.00,50,Condiments & Seasonings,images/SN-1063.png
+SN-1064,Mama Sita's Kare-Kare Mix – 50 g,28.00,50,Condiments & Seasonings,images/SN-1064.png
+SN-1065,SkyFlakes Crackers – Small pack,10.00,50,Snacks,images/SN-1065.png
+SN-1066,SkyFlakes Crackers – Family pack,62.00,50,Snacks,images/SN-1066.png
+SN-1067,Fita Crackers – Small pack,10.00,50,Snacks,images/SN-1067.png
+SN-1068,Rebisco Crackers – Small pack,10.00,50,Snacks,images/SN-1068.png
+SN-1069,Fudgee Barr – Single pack,10.00,50,Snacks,images/SN-1069.png
+SN-1070,Choco Mucho – Single pack,10.00,50,Snacks,images/SN-1070.png
+SN-1071,Presto Cream Sandwich – Single pack,8.00,50,Snacks,images/SN-1071.png
+SN-1072,Hansel Sandwich – Single pack,10.00,50,Snacks,images/SN-1072.png
+SN-1073,Cream-O Cookies – Small pack,12.00,50,Snacks,images/SN-1073.png
+SN-1074,Piattos – 40 g,20.00,50,Snacks,images/SN-1074.png
+SN-1075,Piattos – 85 g,38.00,50,Snacks,images/SN-1075.png
+SN-1076,Nova Multigrain Snacks – 40 g,20.00,50,Snacks,images/SN-1076.png
+SN-1077,Oishi Prawn Crackers – 60 g,18.00,50,Snacks,images/SN-1077.png
+SN-1078,Chippy – 55 g,20.00,50,Snacks,images/SN-1078.png
+SN-1079,Clover Chips – 55 g,20.00,50,Snacks,images/SN-1079.png
+SN-1080,Boy Bawang – 100 g,30.00,50,Snacks,images/SN-1080.png
+SN-1081,Coca-Cola – 290 ml,25.00,50,Beverages,images/SN-1081.png
+SN-1082,Coca-Cola – 1.5 L,85.00,50,Beverages,images/SN-1082.png
+SN-1083,Pepsi – 290 ml,22.00,50,Beverages,images/SN-1083.png
+SN-1084,Sprite – 500 ml,38.00,50,Beverages,images/SN-1084.png
+SN-1085,Royal Tru-Orange – 500 ml,38.00,50,Beverages,images/SN-1085.png
+SN-1086,C2 Green Tea – 355 ml,25.00,50,Beverages,images/SN-1086.png
+SN-1087,Tang Juice Powder – 25 g,12.00,50,Beverages,images/SN-1087.png
+SN-1088,Milo Powder – 300 g,120.00,50,Beverages,images/SN-1088.png
+SN-1089,Bear Brand Powdered Milk – 300 g,135.00,50,Beverages,images/SN-1089.png
+SN-1090,Nescafé Classic Coffee – 50 g,95.00,50,Beverages,images/SN-1090.png
+SN-1091,Kopiko Brown Coffee – 10-sachet pack,55.00,48,Beverages,images/SN-1091.png
+SN-1092,Great Taste White Coffee – 10-sachet pack,62.00,50,Beverages,images/SN-1092.png
+SN-1093,Energen Cereal Drink – 10-sachet pack,70.00,50,Beverages,images/SN-1093.png
+SN-1094,Wilkins Drinking Water – 500 ml,20.00,50,Beverages,images/SN-1094.png
+SN-1095,Safeguard Soap – 90 g,48.00,48,Household & Personal Care,images/SN-1095.png
+SN-1096,Palmolive Shampoo – 180 ml,85.00,47,Household & Personal Care,images/SN-1096.png
+SN-1097,Sunsilk Shampoo – 180 ml,90.00,50,Household & Personal Care,images/SN-1097.png
+SN-1098,Colgate Toothpaste – 100 g,75.00,50,Household & Personal Care,images/SN-1098.png
+SN-1099,Tide Detergent Powder – 360 g,65.00,50,Household & Personal Care,images/SN-1099.png
+SN-1100,Joy Dishwashing Liquid – 400 ml,85.00,49,Household & Personal Care,images/SN-1100.png
